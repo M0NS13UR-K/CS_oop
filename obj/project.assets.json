@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/krishna_chitta/gitportfolio/csharp/LibraryManagementSystem/LibraryManagementSystem.csproj",
+      "projectUniqueName": "/Users/krishna_chitta/gitportfolio/csharp/CS_oop/LibraryManagementSystem.csproj",
       "projectName": "LibraryManagementSystem",
-      "projectPath": "/Users/krishna_chitta/gitportfolio/csharp/LibraryManagementSystem/LibraryManagementSystem.csproj",
+      "projectPath": "/Users/krishna_chitta/gitportfolio/csharp/CS_oop/LibraryManagementSystem.csproj",
       "packagesPath": "/Users/krishna_chitta/.nuget/packages/",
-      "outputPath": "/Users/krishna_chitta/gitportfolio/csharp/LibraryManagementSystem/obj/",
+      "outputPath": "/Users/krishna_chitta/gitportfolio/csharp/CS_oop/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/krishna_chitta/.nuget/NuGet/NuGet.Config"
